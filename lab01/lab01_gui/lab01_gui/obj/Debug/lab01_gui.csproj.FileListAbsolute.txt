@@ -1,0 +1,20 @@
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\bin\Debug\lab01_gui.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\bin\Debug\lab01_gui.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\bin\Debug\lab01_gui.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\bin\Debug\lab01_gui.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\bin\Debug\lab01_gui.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\bin\Debug\lab01_gui.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_gui\lab01_gui\obj\Debug\lab01_gui.pdb

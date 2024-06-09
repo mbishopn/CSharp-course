@@ -1,0 +1,21 @@
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01\lab01\obj\Debug\lab01.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01\lab01\bin\Debug\lab01.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01\lab01\bin\Debug\lab01.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01\lab01\bin\Debug\lab01.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01\lab01\obj\Debug\lab01.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012\lab01\lab01\lab01\obj\Debug\lab01.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01\lab01\bin\Debug\lab01.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01\lab01\bin\Debug\lab01.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01\lab01\bin\Debug\lab01.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01\lab01\obj\Debug\lab01.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01\lab01\obj\Debug\lab01.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01\lab01\obj\Debug\lab01.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_cli\lab01\bin\Debug\lab01.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_cli\lab01\bin\Debug\lab01.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_cli\lab01\bin\Debug\lab01.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_cli\lab01\obj\Debug\lab01.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_cli\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_cli\lab01\obj\Debug\lab01.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\lab01\lab01_cli\lab01\obj\Debug\lab01.pdb

@@ -1,0 +1,26 @@
+#########################################################
+# Use this file to customize spin cost and payouts	#
+# keep format like $variable=value$			#
+# use only integer values. don't change file name.	#
+#							#
+#	deafult values	if not redefined here		#
+#							#
+# 	$spin=2$		spin cost		#
+#	$all7=25$		all sevens		#
+#	$sameFruit=10$		same fruit		#
+#	$anyFruit=1$		all fruit		#
+#	$initBalance=25$	initial balance		#
+#	$bonusCost=3$		bonus price		#
+#	$bonusPrize=5$		bonus prize		#
+#							#
+# Only first definitions after this header in file	#
+# will be considered. One value per line		#
+#########################################################
+$spinCost=3$
+$all7=30$
+$sameFruit=10$
+$anyFruit=1$
+$whatever=3x$
+$initBalance=15$
+$bonusPrize=6$
+$bonusCost=4$

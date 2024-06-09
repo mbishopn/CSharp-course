@@ -1,0 +1,30 @@
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week12\BasketballStats - LINQ\BasketballStats\obj\Debug\BasketballStats.pdb

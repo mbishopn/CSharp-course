@@ -1,0 +1,30 @@
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\bin\Debug\PigTournament.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\bin\Debug\PigTournament.exe
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\bin\Debug\PigTournament.pdb
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\obj\Debug\PigTournament.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\obj\Debug\PigTournament.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\obj\Debug\PigTournament.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\obj\Debug\PigTournament.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\obj\Debug\PigTournament.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\obj\Debug\PigTournament.exe
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament\PigTournament\obj\Debug\PigTournament.pdb
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\bin\Debug\PigTournament.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\bin\Debug\PigTournament.exe
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\bin\Debug\PigTournament.pdb
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.exe
+C:\Users\julie\Documents\Scott SLC\Code\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\bin\Debug\PigTournament.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\bin\Debug\PigTournament.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\bin\Debug\PigTournament.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment04\PigTournament - Assignment 4\PigTournament\obj\Debug\PigTournament.pdb

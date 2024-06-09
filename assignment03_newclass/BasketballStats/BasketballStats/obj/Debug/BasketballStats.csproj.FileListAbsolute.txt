@@ -1,0 +1,41 @@
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.pdb
+C:\Users\julie\Documents\Scott SLC\Code\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.pdb
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\bin\Debug\BasketballStats.pdb
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.AssemblyReference.cache
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.SuggestedBindingRedirects.cache
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\2eo02\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03\BasketballStats\BasketballStats\obj\Debug\BasketballStats.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\obj\Debug\BasketballStats.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\obj\Debug\BasketballStats.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\obj\Debug\BasketballStats.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\obj\Debug\BasketballStats.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\bin\Debug\BasketballStats.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment03_newclass\BasketballStats\BasketballStats\bin\Debug\BasketballStats.pdb
