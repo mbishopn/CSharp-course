@@ -1,0 +1,20 @@
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.exe
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.pdb
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.exe
+C:\Users\julie\Documents\Scott SLC\Code\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\bin\Debug\MiniExcel.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcelStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\MiniExcelStarterCode\MiniExcelStarterCode\obj\Debug\MiniExcel.pdb

@@ -1,0 +1,30 @@
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.pdb
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.exe
+C:\Users\julie\Documents\Scott SLC\Code\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachineStarterCode\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\bin\Debug\SlotMachineStarterCode.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\assignment01\SlotMachin_extensions\SlotMachineStarterCode\obj\Debug\SlotMachineStarterCode.csproj.AssemblyReference.cache

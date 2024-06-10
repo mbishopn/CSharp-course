@@ -1,0 +1,20 @@
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\bin\Debug\CalculatorWithDuplicateCode.exe.config
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\bin\Debug\CalculatorWithDuplicateCode.exe
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\bin\Debug\CalculatorWithDuplicateCode.pdb
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.Form1.resources
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.Properties.Resources.resources
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.exe
+C:\Users\julie\Documents\Scott SLC\Code\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\bin\Debug\CalculatorWithDuplicateCode.exe.config
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\bin\Debug\CalculatorWithDuplicateCode.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\bin\Debug\CalculatorWithDuplicateCode.pdb
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.csprojAssemblyReference.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.Form1.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.Properties.Resources.resources
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.csproj.GenerateResource.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.csproj.CoreCompileInputs.cache
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.exe
+C:\Users\manolo\OneDrive - St. Lawrence College\Documents\slc\winter2023\COMP1012 C#\week02\CalculatorWithDuplicateCode\CalculatorWithDuplicateCode\obj\Debug\CalculatorWithDuplicateCode.pdb
